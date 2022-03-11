@@ -9,12 +9,12 @@ body {
   background: #efefef;
 }
 .totalRaised {
-  background-color: #93939326;
+  background-color: rgb(255 213 0);
   padding: 17px 26px;
   border-radius: 12px;
   margin: 12px;
   display: inline-block;
-  color: teal;
+  color: rgb(0 91 187);
   font-weight: bold;
 }
 
@@ -69,26 +69,26 @@ body {
   word-break: break-all;
   padding: 6px 12px;
   margin: 0 7px;
-  border: 2px solid teal;
+  border: 2px solid rgb(0 91 187);
 }
 .campaignLink a:hover,
 .copyLink:hover {
   background-color: #00808012;
-  color: teal;
+  color: rgb(0 91 187);
 }
 
 .campaignLink a {
   text-decoration: none;
   width: 70%;
   font-weight: bold;
-  background-color: teal;
+  background-color: rgb(0 91 187);
   color: #fff;
   text-transform: uppercase;
 }
 .copyLink {
   width: 30%;
   cursor: pointer;
-  color: teal;
+  color: rgb(0 91 187);
 }
 .campaignImage {
   max-width: 100%;
@@ -97,7 +97,7 @@ body {
 }
 .faIcon {
   margin: 2px 6px 0 0;
-  color: teal;
+  color: rgb(0 91 187);
 }
 
 .progressBar {
@@ -112,7 +112,7 @@ body {
 }
 
 .progressBar > div {
-  background-color: teal;
+  background-color: rgb(0 91 187);
   /* Adjust with JavaScript */
   height: 12px;
   border-radius: 10px;
